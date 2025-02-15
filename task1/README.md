@@ -15,3 +15,20 @@ Conditional part of Makefiles: [](https://makefiletutorial.com/#conditional-part
 [](https://www.gnu.org/software/make/manual/html_node/Conditionals.html#Conditionals),
 [](https://en.cppreference.com/w/cpp/preprocessor/conditional).
 
+## Make-версия
+### Float
+To use float type use command
+```
+make float
+```
+
+### Double
+To use double type use command
+```
+make double
+```
+
+### Outputs:
+float   ->   -0.0277862
+
+double  ->   -6.76916e-10
